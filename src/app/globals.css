@@ -19,3 +19,10 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.logo-app {
+  background-image: url('/letter-n.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
